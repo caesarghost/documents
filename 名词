@@ -1,0 +1,12 @@
+系统内部集成测试(System Integration Testing) SIT
+用户验收测试(User Acceptance Testing) UAT
+SIT在前，UAT在后，UAT测完才可以上线。
+SCM:Source Code Management/Migration 源代码管理
+RTC：IBM Rational Team Concert 是一个协作软件交付环境，可以帮助项目团队简化、自动化和监管软件交付过程。
+SDP：Direct Socket Protocol 
+UCD:Urban Code Deploy 自动化应用部署
+LDAP:Lightweight Directory Access Protocol 轻量目录访问协议
+Cloud:
+nonCLOUD:
+DevOps: Development和Operations 是一组过程、方法与系统的统称，用于促进开发（应用程序/软件工程）、技术运营和质量保障（QA）部门之间的沟通、协作与整合。
+可以把DevOps看作开发（软件工程）、技术运营和质量保障（QA）三者的交集。
